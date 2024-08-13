@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "GenkiGanko"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/prof-pic.jpg"
   bio    : "Welcome to my blogspot, visitor! Feel free to roam around this site, learn about some of the best tech and IT infrastructure manuals and go-around when it comes to IT, cybersecurity, infrastructure, cloud infrastructure,and scripting."
   links:
     - label: "Website"
