@@ -63,9 +63,9 @@ author:
   avatar : "/assets/images/prof-pic.jpg"
   bio    : "Welcome to my blogspot, visitor! Feel free to roam around this site, learn about some of the best tech and IT infrastructure manuals and go-around when it comes to IT, cybersecurity, infrastructure, cloud infrastructure,and scripting."
   links:
-    - label: "Website"
+    - label: "Medium"
       icon: "fas fa-fw fa-link"
-      url: "https://jigoto.github.io/"
+      url: "https://genkiganko.medium.com/"
 #    - label: "Twitter"
  #     icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
